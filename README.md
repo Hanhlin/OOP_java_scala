@@ -3,4 +3,4 @@ This lab includes two parts, part one is written in Java and the other is in Sca
 
 Both parts implements simple classes and functions to preform the feature of object-oriented programming.
 
-The detailed description of each class and function is commented in the sources.
+Detailed description of each class and function is commented in the sources.
